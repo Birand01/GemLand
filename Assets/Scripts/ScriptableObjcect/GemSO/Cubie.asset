@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66260413801979749ac452b330c64768, type: 3}
+  m_Name: Cubie
+  m_EditorClassIdentifier: 
+  gemName: Cubie
+  initialPrice: 100
+  gemIcon: {fileID: 21300000, guid: 4beed9fb1b11bdf49971118bb999398e, type: 3}
+  gemPrefab: {fileID: 7200460543378316177, guid: 3057b0dc582ad564b985c2e1d426c4ae, type: 3}
+  collectedCount: 14
+  gemType: 0

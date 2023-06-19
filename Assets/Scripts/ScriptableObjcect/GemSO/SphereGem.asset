@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66260413801979749ac452b330c64768, type: 3}
+  m_Name: SphereGem
+  m_EditorClassIdentifier: 
+  gemName: SphereGem
+  initialPrice: 100
+  gemIcon: {fileID: 21300000, guid: f52f851c5e7cdf246ab4d7152e1ec2f8, type: 3}
+  gemPrefab: {fileID: 2888506719373964830, guid: 1aece5cc7dba884448ec84aa90d147cf, type: 3}
+  collectedCount: 10
+  gemType: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba3d344ce14372e419b42b6f8d7c313c, type: 3}
+  m_Name: GemSpawnerConfiguration
+  m_EditorClassIdentifier: 
+  spawnDelay: 0.1
+  scaleDelay: 5
+  finalScaleSize: 1
+  spawningEaseType: 1
+  gemList:
+  - {fileID: 11400000, guid: 68dcfe3e966d11c4599097875fcea29d, type: 2}
+  - {fileID: 11400000, guid: 41e538c91bd45de4aafcdca58b871302, type: 2}
+  - {fileID: 11400000, guid: 54eaf36bea8201844b9c79c74b718537, type: 2}
+  - {fileID: 11400000, guid: df5e3de60b8e26642884164efdb1d64b, type: 2}
+  - {fileID: 11400000, guid: 821e2704e9197a74bbe9b9807f832f7c, type: 2}
